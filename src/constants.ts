@@ -7,7 +7,7 @@ export const INDIE_GAMES: Game[] = [
     description: 'gay',
     genre: 'gay',
     rating: '10/10',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.eF2YNq0Xb8imnZCINvuEBQHaEK?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3',
+    image: 'https://tse4.mm.bing.net/th/id/OIP.eF2YNq0Xb8imnZCINvuEBQHaEK?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3q=80&w=800&auto=format&fit=crop',
     tags: ['Masterpiece', 'Replayability', 'Story Rich']
   },
   {
