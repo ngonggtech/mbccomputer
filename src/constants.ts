@@ -16,7 +16,7 @@ export const INDIE_GAMES: Game[] = [
     description: 'Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes.',
     genre: 'Metroidvania',
     rating: '9.5/10',
-    image: './anh1.png',
+    image: '/anh1.pngq=80&w=800&auto=format&fit=crop',
     tags: ['Atmospheric', 'Difficult', 'Exploration']
   },
   {
