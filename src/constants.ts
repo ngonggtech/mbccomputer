@@ -3,7 +3,7 @@ import { Game, Component } from './types';
 export const INDIE_GAMES: Game[] = [
   {
     id: 'hades',
-    title: 'Hades',
+    title: '',
     description: 'gay',
     genre: 'gay',
     rating: '10/10',
