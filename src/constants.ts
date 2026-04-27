@@ -7,7 +7,7 @@ export const INDIE_GAMES: Game[] = [
     description: 'gay',
     genre: 'gay',
     rating: '10/10',
-    image: './anh1.png',
+    image: '/anh1.png',
     tags: ['Masterpiece', 'Replayability', 'Story Rich']
   },
   {
