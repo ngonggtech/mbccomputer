@@ -7,7 +7,7 @@ export const INDIE_GAMES: Game[] = [
     description: 'A god-like rogue-like dungeon crawler from Supergiant Games. Fast-paced action with incredible storytelling.',
     genre: 'Action Rogue-like',
     rating: '10/10',
-    image: 'https://images.unsplash.com/photo-1614027164847-1b2809eb189d?q=80&w=800&auto=format&fit=crop',
+    image: '/anh1.png',
     tags: ['Masterpiece', 'Replayability', 'Story Rich']
   },
   {
