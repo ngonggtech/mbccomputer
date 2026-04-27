@@ -4,10 +4,10 @@ export const INDIE_GAMES: Game[] = [
   {
     id: 'hades',
     title: 'Hades',
-    description: 'A god-like rogue-like dungeon crawler from Supergiant Games. Fast-paced action with incredible storytelling.',
-    genre: 'Action Rogue-like',
+    description: 'gay',
+    genre: 'gay',
     rating: '10/10',
-    image: '/anh1.png',
+    image: './anh1.png',
     tags: ['Masterpiece', 'Replayability', 'Story Rich']
   },
   {
